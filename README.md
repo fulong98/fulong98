@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**fulong98/fulong98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Hi there! 👋 I'm Tan Fu Long
 
 Welcome to my GitHub! I am a **Software Engineer** specializing in **Machine Learning Platforms** and **Algorithms** with a strong foundation in **Financial Engineering** and **Electrical & Electronics Engineering**. My work is centered around designing scalable systems, optimizing workflows, and solving complex problems using cutting-edge technologies.
