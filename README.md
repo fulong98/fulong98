@@ -31,15 +31,6 @@ Fluent in: `English`, `Chinese`, `Malay`, `Cantonese`
 
 ---
 
-## 🏅 Awards & Recognition
-
-- 🥇 **Best New Hire**, Shopee (2022)  
-- 🏆 1st – NTU ML Design & Innovation Project  
-- 🥇 1st – ICIP AI Clip Contest (2020)  
-- 🎓 **NTU President Research Scholar** (2019–2020)
-
----
-
 ## 📫 Get in Touch
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/tanfulong)  
